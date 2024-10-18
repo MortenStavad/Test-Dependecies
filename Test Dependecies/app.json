@@ -10,7 +10,20 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "0745e76d-0b72-4641-87c2-ee45db5d2c32",
+      "name": "Continia Delivery Network",
+      "publisher": "Continia Software",
+      "version": "24.0.0.0"
+  },
+  {
+    "id": "4b915d7e-c02a-435f-85ab-649086c1e002",
+    "name": "Continia Core",
+    "publisher": "Continia Software",
+    "version": "24.0.0.0"
+  }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
